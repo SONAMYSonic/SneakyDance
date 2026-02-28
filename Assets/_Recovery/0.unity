@@ -667,7 +667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e04eb9dd79d2a245841b10996394793, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SneakyDance.Presentation.Views.StudentView
-  _spriteRenderer: {fileID: 0}
+  _spriteRenderer: {fileID: 1252220566}
 --- !u!212 &1252220566
 SpriteRenderer:
   serializedVersion: 2
@@ -717,8 +717,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: a8aacba54871e1f4a9ad246bf8409629, type: 3}
-  m_Color: {r: 1, g: 0.6, b: 0.2, a: 1}
+  m_Sprite: {fileID: -298112540958231304, guid: 734247d0889554841b5aa0782d6abd17, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

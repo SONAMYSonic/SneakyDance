@@ -90,7 +90,13 @@ namespace SneakyDance.Presentation.Presenters
 
             if (state == GameState.Playing)
             {
+                _studentView.ResetMusic();
                 _studentView.SetDancing(false);
+            }
+            else if (state == GameState.GameOver || state == GameState.StageClear)
+            {
+                _studentView.SetDancing(false);
+                _studentView.ResetMusic();
             }
         }
 
