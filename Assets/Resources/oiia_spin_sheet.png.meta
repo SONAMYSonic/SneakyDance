@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: b5de71bbc8691764886b31f0ba9089a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8807121775963935760
+    second: oiia_spin_sheet_0
+  - first:
+      213: 1120211387938685445
+    second: oiia_spin_sheet_1
+  - first:
+      213: -3762492906980860803
+    second: oiia_spin_sheet_2
+  - first:
+      213: -3511509413098350753
+    second: oiia_spin_sheet_3
+  - first:
+      213: 6448069107791436238
+    second: oiia_spin_sheet_4
+  - first:
+      213: -5930307914253770207
+    second: oiia_spin_sheet_5
+  - first:
+      213: 6326611033346066214
+    second: oiia_spin_sheet_6
+  - first:
+      213: 635248072014928877
+    second: oiia_spin_sheet_7
+  - first:
+      213: 6929828848236311720
+    second: oiia_spin_sheet_8
+  - first:
+      213: 5703947224017403882
+    second: oiia_spin_sheet_9
+  - first:
+      213: 5942909970112773867
+    second: oiia_spin_sheet_10
+  - first:
+      213: -2349217564976059028
+    second: oiia_spin_sheet_11
+  - first:
+      213: 5357168676073681475
+    second: oiia_spin_sheet_12
+  - first:
+      213: 2233889400074993737
+    second: oiia_spin_sheet_13
+  - first:
+      213: -8592665479145610599
+    second: oiia_spin_sheet_14
+  - first:
+      213: -810966353752091042
+    second: oiia_spin_sheet_15
+  - first:
+      213: -2372365440610529725
+    second: oiia_spin_sheet_16
+  - first:
+      213: -500918015555787611
+    second: oiia_spin_sheet_17
+  - first:
+      213: -6444597602701838693
+    second: oiia_spin_sheet_18
+  - first:
+      213: 2077713176120477043
+    second: oiia_spin_sheet_19
+  - first:
+      213: 6564414358307696141
+    second: oiia_spin_sheet_20
+  - first:
+      213: -136959231296745327
+    second: oiia_spin_sheet_21
+  - first:
+      213: -4044522965121820116
+    second: oiia_spin_sheet_22
+  - first:
+      213: -6731737542068559271
+    second: oiia_spin_sheet_23
+  - first:
+      213: 4850874311196489241
+    second: oiia_spin_00
+  - first:
+      213: 7744585647452119336
+    second: oiia_spin_01
+  - first:
+      213: -944626351873484114
+    second: oiia_spin_02
+  - first:
+      213: 3209905022606083105
+    second: oiia_spin_03
+  - first:
+      213: 9186500886459732079
+    second: oiia_spin_04
+  - first:
+      213: -4285405316535338932
+    second: oiia_spin_05
+  - first:
+      213: -2356398397286010978
+    second: oiia_spin_06
+  - first:
+      213: -7720866452498433057
+    second: oiia_spin_07
+  - first:
+      213: 6413781273450183717
+    second: oiia_spin_08
+  - first:
+      213: 2142843247115155895
+    second: oiia_spin_09
+  - first:
+      213: 6721750100666747599
+    second: oiia_spin_10
+  - first:
+      213: 7992670652041700761
+    second: oiia_spin_11
+  - first:
+      213: -5650754713696112285
+    second: oiia_spin_12
+  - first:
+      213: 1370800202395381355
+    second: oiia_spin_13
+  - first:
+      213: 7538514101584100854
+    second: oiia_spin_14
+  - first:
+      213: -3364648726583165255
+    second: oiia_spin_15
+  - first:
+      213: 2328404322850258688
+    second: oiia_spin_16
+  - first:
+      213: 821413481707137941
+    second: oiia_spin_17
+  - first:
+      213: -6029283659688514095
+    second: oiia_spin_18
+  - first:
+      213: -2518412367709812865
+    second: oiia_spin_19
+  - first:
+      213: -941574920822153843
+    second: oiia_spin_20
+  - first:
+      213: -744488060245968132
+    second: oiia_spin_21
+  - first:
+      213: 6975217036143087510
+    second: oiia_spin_22
+  - first:
+      213: 8826294255555969183
+    second: oiia_spin_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oiia_spin_11
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995a2ad6c9babee60800000000000000
+      internalID: 7992670652041700761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3617741e68c7491b0800000000000000
+      internalID: -5650754713696112285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e6fc1758f060310800000000000000
+      internalID: 1370800202395381355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd713772ae2e9860800000000000000
+      internalID: 7538514101584100854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be3a025fcd5e41d0800000000000000
+      internalID: -3364648726583165255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f39fc2567205020800000000000000
+      internalID: 2328404322850258688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59beed6a53f366b00800000000000000
+      internalID: 821413481707137941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dde23eb47ea35ca0800000000000000
+      internalID: -6029283659688514095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77c4b07b4dcc0dd0800000000000000
+      internalID: -2518412367709812865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d9af2299adee2f0800000000000000
+      internalID: -941574920822153843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_21
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaf48dbd0c0ba5f0800000000000000
+      internalID: -744488060245968132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fcf8620f2fcc060800000000000000
+      internalID: 6975217036143087510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oiia_spin_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f900c799cdb4d7a70800000000000000
+      internalID: 8826294255555969183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1c113bd73f224c843a154268f3b8ab22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      oiia_spin_00: 4850874311196489241
+      oiia_spin_01: 7744585647452119336
+      oiia_spin_02: -944626351873484114
+      oiia_spin_03: 3209905022606083105
+      oiia_spin_04: 9186500886459732079
+      oiia_spin_05: -4285405316535338932
+      oiia_spin_06: -2356398397286010978
+      oiia_spin_07: -7720866452498433057
+      oiia_spin_08: 6413781273450183717
+      oiia_spin_09: 2142843247115155895
+      oiia_spin_10: 6721750100666747599
+      oiia_spin_11: 7992670652041700761
+      oiia_spin_12: -5650754713696112285
+      oiia_spin_13: 1370800202395381355
+      oiia_spin_14: 7538514101584100854
+      oiia_spin_15: -3364648726583165255
+      oiia_spin_16: 2328404322850258688
+      oiia_spin_17: 821413481707137941
+      oiia_spin_18: -6029283659688514095
+      oiia_spin_19: -2518412367709812865
+      oiia_spin_20: -941574920822153843
+      oiia_spin_21: -744488060245968132
+      oiia_spin_22: 6975217036143087510
+      oiia_spin_23: 8826294255555969183
+      oiia_spin_sheet_0: 8807121775963935760
+      oiia_spin_sheet_1: 1120211387938685445
+      oiia_spin_sheet_10: 5942909970112773867
+      oiia_spin_sheet_11: -2349217564976059028
+      oiia_spin_sheet_12: 5357168676073681475
+      oiia_spin_sheet_13: 2233889400074993737
+      oiia_spin_sheet_14: -8592665479145610599
+      oiia_spin_sheet_15: -810966353752091042
+      oiia_spin_sheet_16: -2372365440610529725
+      oiia_spin_sheet_17: -500918015555787611
+      oiia_spin_sheet_18: -6444597602701838693
+      oiia_spin_sheet_19: 2077713176120477043
+      oiia_spin_sheet_2: -3762492906980860803
+      oiia_spin_sheet_20: 6564414358307696141
+      oiia_spin_sheet_21: -136959231296745327
+      oiia_spin_sheet_22: -4044522965121820116
+      oiia_spin_sheet_23: -6731737542068559271
+      oiia_spin_sheet_3: -3511509413098350753
+      oiia_spin_sheet_4: 6448069107791436238
+      oiia_spin_sheet_5: -5930307914253770207
+      oiia_spin_sheet_6: 6326611033346066214
+      oiia_spin_sheet_7: 635248072014928877
+      oiia_spin_sheet_8: 6929828848236311720
+      oiia_spin_sheet_9: 5703947224017403882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

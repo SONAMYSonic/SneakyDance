@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__unityMCP__batch_execute",
+      "mcp__unityMCP__manage_gameobject",
+      "mcp__unityMCP__read_console",
+      "mcp__unityMCP__execute_menu_item",
+      "mcp__unityMCP__manage_texture",
+      "mcp__unityMCP__find_gameobjects",
+      "mcp__unityMCP__manage_components",
+      "mcp__unityMCP__set_active_instance"
+    ]
+  }
+}
